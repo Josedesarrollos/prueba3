@@ -18,5 +18,6 @@ namespace WindowsFormsApp1
         }
 
         int hola;
+        string adios;
     }
 }
